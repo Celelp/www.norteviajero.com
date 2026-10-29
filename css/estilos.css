@@ -23,7 +23,7 @@ body {
     background-image: linear-gradient(
         rgba(0,0,0,0.7),
         rgba(0,0,0,0.7)),
-        url("/imagenes/foto01.jpg");
+        url("../imagenes/foto01.jpg");
         background-position: center bottom;
         background-repeat: no-repeat;
         background-size: cover;
@@ -204,7 +204,7 @@ body {
     background-image: linear-gradient(
         rgba(0,0,0,0.7),
         rgba(0,0,0,0.7)),
-        url("/imagenes/foto10.jpg");
+        url("../imagenes/foto10.jpg");
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -263,7 +263,7 @@ body {
 }
 
 .general-2 {
-    background-image: url(/imagenes/foto11.jpg);
+    background-image: url(../imagenes/foto11.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -271,7 +271,7 @@ body {
 }
 
 .general-3 {
-    background-image: url(/imagenes/foto12.jpg);
+    background-image: url(../imagenes/foto12.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
